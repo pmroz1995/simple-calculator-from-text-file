@@ -1,13 +1,13 @@
-package com.example.calculatorstorware.resources;
+package com.example.calculator.resources;
 
 
-import com.example.calculatorstorware.service.enums.Operation;
+import com.example.calculator.service.enums.Operation;
 import org.junit.Before;
 import org.junit.Test;
 
 
-import static com.example.calculatorstorware.DataForTheTests.Fixtures.fillArrayList;
-import static com.example.calculatorstorware.DataForTheTests.Fixtures.listOfStringsFromFile;
+import static com.example.calculator.DataForTheTests.Fixtures.fillArrayList;
+import static com.example.calculator.DataForTheTests.Fixtures.listOfStringsFromFile;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;

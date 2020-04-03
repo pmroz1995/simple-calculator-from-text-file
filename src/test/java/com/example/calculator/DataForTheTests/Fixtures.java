@@ -1,7 +1,7 @@
-package com.example.calculatorstorware.DataForTheTests;
+package com.example.calculator.DataForTheTests;
 
-import com.example.calculatorstorware.resources.model.DividedLine;
-import com.example.calculatorstorware.service.enums.Operation;
+import com.example.calculator.resources.model.DividedLine;
+import com.example.calculator.service.enums.Operation;
 
 import java.util.Arrays;
 import java.util.List;

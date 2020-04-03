@@ -15,7 +15,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.example.calculatorstorware.Main</mainClass>
+							<mainClass>com.example.calculator.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

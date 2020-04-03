@@ -1,10 +1,10 @@
-package com.example.calculatorstorware;
+package com.example.calculator;
 
-import com.example.calculatorstorware.resources.ReadingDataFromFile;
-import com.example.calculatorstorware.resources.ReadingDataFromFileImpl;
-import com.example.calculatorstorware.resources.model.DividedLine;
-import com.example.calculatorstorware.service.Service;
-import com.example.calculatorstorware.service.ServiceImpl;
+import com.example.calculator.resources.ReadingDataFromFile;
+import com.example.calculator.resources.ReadingDataFromFileImpl;
+import com.example.calculator.resources.model.DividedLine;
+import com.example.calculator.service.Service;
+import com.example.calculator.service.ServiceImpl;
 
 import java.util.List;
 

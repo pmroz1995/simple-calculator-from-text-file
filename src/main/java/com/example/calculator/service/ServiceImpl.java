@@ -1,7 +1,7 @@
-package com.example.calculatorstorware.service;
+package com.example.calculator.service;
 
-import com.example.calculatorstorware.resources.model.DividedLine;
-import com.example.calculatorstorware.service.enums.Operation;
+import com.example.calculator.resources.model.DividedLine;
+import com.example.calculator.service.enums.Operation;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.example.calculatorstorware.resources.model;
+package com.example.calculator.resources.model;
 
-import com.example.calculatorstorware.service.enums.Operation;
+import com.example.calculator.service.enums.Operation;
 
 import java.util.Objects;
 

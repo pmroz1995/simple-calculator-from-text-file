@@ -1,8 +1,8 @@
-package com.example.calculatorstorware.resources;
+package com.example.calculator.resources;
 
 
-import com.example.calculatorstorware.resources.model.DividedLine;
-import com.example.calculatorstorware.service.enums.Operation;
+import com.example.calculator.resources.model.DividedLine;
+import com.example.calculator.service.enums.Operation;
 
 import java.io.File;
 import java.io.FileNotFoundException;

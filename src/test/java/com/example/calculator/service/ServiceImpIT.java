@@ -1,10 +1,10 @@
-package com.example.calculatorstorware.service;
+package com.example.calculator.service;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import static com.example.calculatorstorware.DataForTheTests.Fixtures.fillArrayList;
-import static com.example.calculatorstorware.DataForTheTests.Fixtures.fillArrayList1;
+import static com.example.calculator.DataForTheTests.Fixtures.fillArrayList;
+import static com.example.calculator.DataForTheTests.Fixtures.fillArrayList1;
 import static org.junit.Assert.assertEquals;
 
 

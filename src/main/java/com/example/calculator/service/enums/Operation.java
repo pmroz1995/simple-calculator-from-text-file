@@ -1,4 +1,4 @@
-package com.example.calculatorstorware.service.enums;
+package com.example.calculator.service.enums;
 
 public enum Operation {
 
